@@ -1,0 +1,11 @@
+a=3
+b=4
+c=2
+d=max([a,b,c])
+s=d
+while True:
+    if d%a==0 and d%b==0 and d%c==0:
+        break
+    else:
+        d=d+s
+print(d)
