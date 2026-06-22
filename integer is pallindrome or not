@@ -1,6 +1,1 @@
-a = 121
-b = str(a)
-if b == b[::-1]:
-    print("Palindrome")
-else:
-    print("Not Palindrome")
+
